@@ -7,4 +7,6 @@
 -Thread class methods 
 -Thread VS Runnable 
 -Synchronization 
+-Read and write lock
+-deadlock 
 
