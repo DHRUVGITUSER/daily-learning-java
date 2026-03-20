@@ -9,4 +9,7 @@
 -Synchronization 
 -Read and write lock
 -deadlock 
+-lambda expression 
+-Thread pool
+-Executors framework 
 
